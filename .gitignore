@@ -1,0 +1,13 @@
+# Excluir archivos sin extension (binarios de Linux)
+*
+!*/
+!*.*
+!**/Makefile
+!Makefile
+!README*
+!.gitignore
+
+# Objetos y binarios
+*.o
+*.out
+*.exe
