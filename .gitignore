@@ -11,3 +11,22 @@
 *.o
 *.out
 *.exe
+
+# Imágenes
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.tiff
+*.webp
+*.svg
+
+# Documentos Markdown
+*.md
+
+# Subcarpetas "informe"
+informe/
+
+# Carpeta scanner
+scanner/
